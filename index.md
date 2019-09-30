@@ -1,3 +1,77 @@
-## CorruptedAlien GSC Mod Menus
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <h3><title>Slander's BO2 GSC Mods</title></h3>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta content=’width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0′ name=’viewport’ />
+  <meta name=”viewport” content=”width=device-width” />
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
+  <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
+  <style>
+a {
+    color: grey;
+}
+a:hover {
+    color: white;
+}
+</style>
+</head>
+<body link="white"> 
 
-Welcome to where i keep all of my BO2 GSC Mod Menus <3
+<style type="text/css">
+<!--
+body {
+background-image: url(background.jpg);
+background-size: cover;
+}
+-->
+</style>
+	
+<div class="container">
+	<center><img src="CydiaIcon.png"><center>
+</div>
+<div class="container">
+		<center><b><p style="color:white;">This is where I share my BO2 GSC Mods. <3</p></b>
+		<center><b><p style="color:white;">I will update this site with more mods when ready for their releases. What is uploaded here is what I feel is ready for publicity.<br /><br /><center>
+</div>
+<div class="container">
+	<center><h3 style="color:white;">Slander's Redacted Edition</h3><center>
+</div>
+<div class="container">
+		<center><b><p style="color:white;">This version is basically the original version of Redacted but has the ability to emulate the online services regardless if you can internet connection or not.</p></b>
+		<center><b><p style="color:white;"><a href="https://github.com/slanderthedev/BO2GSCMods/raw/gh-pages/GSC%20Mods/T6%20-%20Redacted%20(Fixed%20for%20Windows%2010).rar">Slander's Redacted Edition</a></p></b><center>
+		<iframe width="625" height="425" src="https://www.youtube.com/embed/XH_vRWimgKE">
+		</iframe>
+	</div>
+</div>
+<div class="container">
+  <center><h3 style="color:white;">Mod Menus</h3><center>
+</div>
+<div class="container">
+		<center><b><p style="color:white;">This menu was made almost a year and a half ago. I made this menu under my other gamertag.</p></b>
+		<center><b><p style="color:white;"><a href="https://github.com/slanderthedev/BO2GSCMods/raw/gh-pages/GSC%20Mods/Project%20Azn%20(Console).rar">Project AZN (Console)</a></p></b><center>
+		<center><b><p style="color:white;"><a href="https://github.com/slanderthedev/BO2GSCMods/raw/gh-pages/GSC%20Mods/Project%20Azn%20(Redacted).rar">Project AZN (Redacted PC)</a></p></b><center>
+		<iframe width="625" height="425" src="https://www.youtube.com/embed/rNIZT8VF-qc">
+		</iframe>
+	</div>
+</div>
+<div class="container">
+  <center><h3 style="color:white;">Custom Camos</h3><center>
+</div>
+<div class="container">
+		<center><b><p style="color:white;">Camos consisted: Black & White/Green/Cyan/Red/and American animated darkmatter camos.</p></b>
+		<center><b><p style="color:white;"><a href="https://github.com/slanderthedev/BO2GSCMods/raw/gh-pages/GSC%20Mods/CAMOS.rar">All my custom camos</a>.</p></b>
+	</div>
+</div>
+<div class="container">
+  <center><h3 style="color:white;">Copyright</h3><center>
+</div>
+	
+<div class="container">
+		<center><b><p style="color:white;">This site is reserved to Slander (@slanderdev) © 2018. Please do NOT redistribute without permission.</a></p>
+	</div>
+</div>				                 
+</body>
+</html>
